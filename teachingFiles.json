@@ -1,36 +1,52 @@
 {
   "Web Design": [
     {
-      "name": "HTML Basics",
-      "link": "https://drive.google.com/file/d/1HTML123/view?usp=sharing",
-      "icon": "google-drive"
+      "lesson": "Lesson 1: HTML Basics",
+      "files": [
+        {
+          "name": "Lecture Slides",
+          "link": "https://drive.google.com/file/d/1HTML123/view?usp=sharing",
+          "icon": "google-drive"
+        },
+        {
+          "name": "Exercise",
+          "link": "#",
+          "icon": "file"
+        }
+      ]
     },
     {
-      "name": "CSS Fundamentals",
-      "link": "https://github.com/hmdbbgh/sample-css-fundamentals",
-      "icon": "github"
-    },
-    {
-      "name": "JavaScript Intro",
-      "link": "#",
-      "icon": "file"
+      "lesson": "Lesson 2: CSS Fundamentals",
+      "files": [
+        {
+          "name": "GitHub Repo",
+          "link": "https://github.com/hmdbbgh/sample-css-fundamentals",
+          "icon": "github"
+        },
+        {
+          "name": "Practice Files",
+          "link": "#",
+          "icon": "file"
+        }
+      ]
     }
   ],
   "Databases": [
     {
-      "name": "SQL Intro",
-      "link": "https://drive.google.com/file/d/1SQL123/view?usp=sharing",
-      "icon": "google-drive"
-    },
-    {
-      "name": "PostgreSQL Advanced",
-      "link": "https://github.com/hmdbbgh/sample-postgresql",
-      "icon": "github"
-    },
-    {
-      "name": "NoSQL Basics",
-      "link": "#",
-      "icon": "file"
+      "lesson": "Lesson 1: SQL Intro",
+      "files": [
+        {
+          "name": "Lecture PDF",
+          "link": "https://drive.google.com/file/d/1SQL123/view?usp=sharing",
+          "icon": "google-drive"
+        },
+        {
+          "name": "Exercise",
+          "link": "#",
+          "icon": "file"
+        }
+      ]
     }
   ]
 }
+
