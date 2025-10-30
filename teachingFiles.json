@@ -1,0 +1,36 @@
+{
+  "Web Design": [
+    {
+      "name": "HTML Basics",
+      "link": "https://drive.google.com/file/d/1HTML123/view?usp=sharing",
+      "icon": "google-drive"
+    },
+    {
+      "name": "CSS Fundamentals",
+      "link": "https://github.com/hmdbbgh/sample-css-fundamentals",
+      "icon": "github"
+    },
+    {
+      "name": "JavaScript Intro",
+      "link": "#",
+      "icon": "file"
+    }
+  ],
+  "Databases": [
+    {
+      "name": "SQL Intro",
+      "link": "https://drive.google.com/file/d/1SQL123/view?usp=sharing",
+      "icon": "google-drive"
+    },
+    {
+      "name": "PostgreSQL Advanced",
+      "link": "https://github.com/hmdbbgh/sample-postgresql",
+      "icon": "github"
+    },
+    {
+      "name": "NoSQL Basics",
+      "link": "#",
+      "icon": "file"
+    }
+  ]
+}
