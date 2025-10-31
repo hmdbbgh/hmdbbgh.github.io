@@ -1,52 +1,54 @@
 {
-  "Web Design": [
-    {
-      "lesson": "Lesson 1: HTML Basics",
-      "files": [
-        {
-          "name": "Lecture Slides",
-          "link": "https://drive.google.com/file/d/1HTML123/view?usp=sharing",
-          "icon": "google-drive"
-        },
-        {
-          "name": "Exercise",
-          "link": "#",
-          "icon": "file"
-        }
-      ]
-    },
-    {
-      "lesson": "Lesson 2: CSS Fundamentals",
-      "files": [
-        {
-          "name": "GitHub Repo",
-          "link": "https://github.com/hmdbbgh/sample-css-fundamentals",
-          "icon": "github"
-        },
-        {
-          "name": "Practice Files",
-          "link": "#",
-          "icon": "file"
-        }
-      ]
-    }
-  ],
-  "Databases": [
-    {
-      "lesson": "Lesson 1: SQL Intro",
-      "files": [
-        {
-          "name": "Lecture PDF",
-          "link": "https://drive.google.com/file/d/1SQL123/view?usp=sharing",
-          "icon": "google-drive"
-        },
-        {
-          "name": "Exercise",
-          "link": "#",
-          "icon": "file"
-        }
-      ]
-    }
-  ]
+  "KhoshBayan": {
+    "Web Design": [
+      {
+        "lesson": "Lesson 1: HTML Basics",
+        "files": [
+          {
+            "name": "Lecture Slides",
+            "link": "https://drive.google.com/file/d/1HTML123/view?usp=sharing",
+            "icon": "google-drive"
+          },
+          {
+            "name": "Exercise",
+            "link": "#",
+            "icon": "file"
+          }
+        ]
+      },
+      {
+        "lesson": "Lesson 2: CSS Fundamentals",
+        "files": [
+          {
+            "name": "GitHub Repo",
+            "link": "https://github.com/hmdbbgh/sample-css-fundamentals",
+            "icon": "github"
+          },
+          {
+            "name": "Practice Files",
+            "link": "#",
+            "icon": "file"
+          }
+        ]
+      }
+    ],
+    "Databases": [
+      {
+        "lesson": "Lesson 1: SQL Intro",
+        "files": [
+          {
+            "name": "Lecture PDF",
+            "link": "https://drive.google.com/file/d/1SQL123/view?usp=sharing",
+            "icon": "google-drive"
+          },
+          {
+            "name": "Exercise",
+            "link": "#",
+            "icon": "file"
+          }
+        ]
+      }
+    ]
+  }
 }
 
